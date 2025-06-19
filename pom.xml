@@ -11,13 +11,13 @@
 	<name>Parer Demo Test</name>
 	<description>Progetto parer-demo-test</description>
 <scm>
-		<developerConnection>scm:git:https://github.com/RegioneER/parer-versamento-fascicolo-v3.git</developerConnection>
-		<tag>versamento-fascicolo-v3-1.5.0</tag>
+		<developerConnection>scm:git:https://github.com/RegioneER/parer-demo-test.git</developerConnection>
+		<tag>HEAD</tag>
 	</scm>
 <distributionManagement>
 		<repository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/RegioneER/parer-versamento-fascicolo-v3</url>
+			<url>https://maven.pkg.github.com/RegioneER/parer-demo-test</url>
 		</repository>
 	</distributionManagement>
 
